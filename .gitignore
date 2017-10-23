@@ -1,0 +1,8 @@
+*.auth
+*.log
+out
+.idea
+.vertx
+target
+*.iml
+*.json
